@@ -6,7 +6,7 @@ trekant
 
 cirkel
 
-
+kvadrat
 
 
 
